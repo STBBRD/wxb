@@ -1,0 +1,118 @@
+@charset "utf-8";
+/* CSS Document */
+.block{
+	background: #f7f7f7;
+	border-bottom: 5px solid #e8e8e8;
+	border-radius: 5px;
+	margin: 20px 30px;
+	height: 300px
+}
+
+.block-right h3{
+	margin: 10px 0 20px 0;
+	font-family: 'Lato', sans-serif;
+	line-height: 1.7em;
+	color: #000;
+	font-size: 26px;
+}
+
+.block-right span{
+	background: #FFB846;
+	color: #FFFFFF;
+}
+
+.block p{
+	line-height: 2em;
+	margin: 0;
+	color: #818181;
+	font-size: 14px
+}
+
+
+.block-right{
+	padding: 50px;
+}
+
+#banner{
+	background: url("../images/banner.png") no-repeat;
+	margin: 0px;
+	background-size: 100%;
+	height: 829px;
+}
+
+#banner-info{
+	color: #FFFFFF;
+	float: right;
+	margin:300px 200px 0 0
+}
+
+#banner-info h1{
+	font-size: 60px;
+	margin-bottom: 15px;
+}
+
+#banner-info h3{
+	font-size: 20px;
+	margin-right: 10px;
+	margin-bottom: 30px;
+	margin-top: 0px;
+}
+
+#banner-info a{
+  	border: 2px solid #FFB846;
+  	color: #FFB846;
+  	text-decoration: none;
+  	font-size: 14px;
+  	font-weight: bold;
+  	padding: 11px 37px;
+  	border-radius: 50px;
+}
+
+#banner-info a:hover {
+  border: 2px solid #FFFFFF;
+  color: #FFFFFF;
+}
+
+#download-left{
+	padding: 30px;
+	width: 45%;
+	float: left;
+}
+#download-left a{
+	text-decoration: none;
+}
+
+#download-left a:hover{
+	text-decoration: underline;
+	color: #FFCF82;
+}
+
+#contact-left{
+	padding: 70px 30px 30px 50px;
+	width: 45%;
+	float: left;
+}
+
+#contact-left a{
+	text-decoration: none;
+	color: #AFAFAF;
+}
+
+#contact-left a:hover{
+	text-decoration: underline;
+	color: #FFB846;
+}
+
+#footer{
+	background: #FFB846;
+	padding: 20px;
+}
+
+#footer a{
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+#footer a:hover{
+	color: #000000;
+}
