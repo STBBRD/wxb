@@ -4,8 +4,8 @@
 	background: #f7f7f7;
 	border-bottom: 5px solid #e8e8e8;
 	border-radius: 5px;
-	margin: 20px 30px;
-	height: 300px
+	margin: 20px 10px;
+	height: 500px
 }
 
 .block-right h3{
@@ -34,7 +34,7 @@
 }
 
 #banner{
-	background: url("../images/banner.png") no-repeat;
+	background: url("https://i.loli.net/2020/07/23/pTjIFxPGEskh3Z1.png") no-repeat;
 	margin: 0px;
 	background-size: 100%;
 	height: 829px;
